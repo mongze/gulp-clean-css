@@ -2,11 +2,11 @@
   "name": "@aptuitiv/gulp-clean-css",
   "description": "Minify css with clean-css.",
   "homepage": "https://github.com/aptuitiv/gulp-clean-css",
-  "version": "4.4.1",
+  "version": "4.4.2",
   "author": "scniro and aptuitiv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aptuitiv/gulp-clean-css/issues",
+    "url": "https://github.com/aptuitiv/gulp-clean-css/issues"
   },
   "repository": {
     "type": "git",

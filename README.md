@@ -11,7 +11,7 @@ This is just a simple [gulp](https://github.com/gulpjs/gulp) plugin, which means
 ## Install
 
 ```
-npm install gulp-clean-css --save-dev
+npm install @aptuitiv/gulp-clean-css --save-dev
 ```
 
 ## API
@@ -70,4 +70,4 @@ gulp.task('minify-css',() => {
 
 ## License
 
-[MIT](./LICENSE) © 2020 [scniro](https://github.com/scniro)
+[MIT](./LICENSE)

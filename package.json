@@ -2,7 +2,7 @@
   "name": "@aptuitiv/gulp-clean-css",
   "description": "Minify css with clean-css.",
   "homepage": "https://github.com/aptuitiv/gulp-clean-css",
-  "version": "4.4.3",
+  "version": "4.5.3",
   "author": "scniro and aptuitiv",
   "license": "MIT",
   "bugs": {
@@ -40,7 +40,7 @@
     "temp-dir": "./.coverage/.nyc_output"
   },
   "dependencies": {
-    "clean-css": "^5.3.2",
+    "clean-css": "^5.3.3",
     "plugin-error": "2.0.1",
     "sass": "^1.60.0",
     "through2": "4.0.2",
